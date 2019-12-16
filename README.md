@@ -1,1 +1,1 @@
-# yazar-takip.github.io
+# yazar-takibi.github.io
